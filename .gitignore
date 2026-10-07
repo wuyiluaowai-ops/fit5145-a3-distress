@@ -1,0 +1,11 @@
+data/raw/pdf/
+data/raw/financials/
+data/processed/
+dict/DLUT*
+*.xlsx
+*.html
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc

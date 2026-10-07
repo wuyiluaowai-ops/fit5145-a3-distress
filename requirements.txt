@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+jieba
+pypdfium2
+baostock
+akshare
